@@ -8,7 +8,7 @@ On Python :)
 Chromedriver: https://chromedriver.chromium.org/downloads
 
 note:
--you might have to create a path with your terminal to to find the chromedriver and image
+-you might have to create a path with your terminal to find the chromedriver or image
 
 Made for a school project
 project-EPQ(Artefect)
