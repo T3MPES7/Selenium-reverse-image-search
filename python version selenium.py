@@ -43,6 +43,6 @@ time.sleep(2)
 #opens images
 upload_tab = driver.find_element(By.XPATH, "//*[@id='hdtb-msb']/div[1]/div/div[2]/a")
 upload_tab.click()
-print(driver.page_source)
 
-#driver.quit()
+
+driver.quit()
